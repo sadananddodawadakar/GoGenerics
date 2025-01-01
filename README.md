@@ -21,6 +21,7 @@ These examples introduce the foundational concepts of generics, helping you gras
 
 ### **📦 Generic Data Structures**
 Explore how generics can simplify and optimize the implementation of classic data structures:
+
 7. **GenericStruct**: Introduces the concept of generic structs to hold values of any type.
 8. **Box**: A simple container type for encapsulating generic values.
 9. **GenericStack**: Implements a stack with common operations like push, pop, and peek.
@@ -32,6 +33,7 @@ Explore how generics can simplify and optimize the implementation of classic dat
 
 ### **🧩 Constraints and Advanced Generics**
 Delve into the advanced use cases of generics with custom constraints, multiple constraints, and more:
+
 13. **CustomConstraints**: Learn how to define and use custom constraints to restrict type parameters.
 14. **BinarySearch**: Implements a generic binary search algorithm for slices of ordered types.
 15. **MergeSortedSlice**: Merges two sorted slices generically and efficiently.
@@ -44,6 +46,7 @@ Delve into the advanced use cases of generics with custom constraints, multiple 
 
 ### **🌲 Advanced Data Structures**
 Push the boundaries of generics by implementing complex data structures:
+
 20. **GenericSet**: A set implementation with operations like union, intersection, and difference.
 21. **GenericBinaryTree**: A binary tree implementation supporting generic data types.
 22. **FilteringStruct**: Filters slices of structs based on user-defined conditions generically.
@@ -54,6 +57,7 @@ Push the boundaries of generics by implementing complex data structures:
 
 ### **📜 Other Concepts**
 Dive deeper into the versatility of generics with additional use cases:
+
 25. **GenericRecursion**: Explores recursion in generic functions, showcasing advanced recursive patterns.
 
 ---
