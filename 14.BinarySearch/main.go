@@ -23,5 +23,5 @@ func BinarySearch[T constraints.Ordered](data []T, target T) int {
 
 func main() {
 	nums := []int{1, 3, 5, 7, 9}
-	fmt.Println(BinarySearch(nums, 5)) // 2
+	fmt.Println(BinarySearch(nums, 5)) 
 }

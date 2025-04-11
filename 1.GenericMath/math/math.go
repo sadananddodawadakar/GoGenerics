@@ -20,3 +20,4 @@ func Divide[T int | float64](a, b T) (T, error) {
 	}
 	return a / b, nil
 }
+
